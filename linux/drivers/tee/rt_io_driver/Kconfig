@@ -1,0 +1,6 @@
+# RT IO driver
+config RTIODRV
+	tristate "RT-IO-Driver"
+	depends on HAVE_ARM_SMCCC
+	help
+		This implements bookkeeping for RT IO driver

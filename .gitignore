@@ -1,0 +1,8 @@
+# OPTEE specific
+
+/out/
+/out-br/
+/.repo/*
+/toolchains/
+/gen_rootfs/
+/module_output/
