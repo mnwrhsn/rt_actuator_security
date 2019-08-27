@@ -3,6 +3,7 @@
 
 ##### Related publication: 
  > Monowar Hasan, Sibin Mohan. 2019. Protecting Actuators in Safety-Critical IoT Systems from Control Spoofing Attacks. In 2nd Workshop on the Internet of Things Security and Privacy (IoT S&P’19), November 15, 2019, London, United Kingdom. 
+ >
  > Link: https://arxiv.org/abs/1908.09444
 
 ***
