@@ -1,7 +1,5 @@
 
 
-### Implementation of I/O-Peripheral Security for RTS
-
 
 ##### Related publication: 
 
@@ -11,6 +9,11 @@ of Things Security and Privacy (IoT S&P’19), November 15, 2019, London,
 United Kingdom.
 
 Link: https://arxiv.org/abs/1908.09444
+
+======
+
+### Implementation of I/O-Peripheral Security for RTS
+
 
 
 #### Clone the repo (in the host machine):
